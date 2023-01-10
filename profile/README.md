@@ -1,5 +1,5 @@
 # .github
-# voBital Technologies
+# voBiTAL Technologies
  
  
  Bringing Fintech to Decentralized Finance
